@@ -1,4 +1,6 @@
-.container-1, .container-2, .container-3 {
+.container-1,
+.container-2,
+.container-3 {
   display: flex;
   margin: auto;
 }
@@ -6,8 +8,8 @@
   text-align: center;
 }
 .box {
- width: 1100;
- margin: auto;
+  width: 1100;
+  margin: auto;
 }
 .divClass {
   width: 27%;
@@ -17,16 +19,15 @@
   width: 276;
   text-align: justify;
   margin: auto;
-   
 }
 .naslov {
   text-align: center;
 }
 h3 {
-  color:red;  
+  color: red;
 }
 h5 {
-  color:rgb(0, 193, 251);
+  color: rgb(0, 193, 251);
 }
 img {
   width: 300px;
